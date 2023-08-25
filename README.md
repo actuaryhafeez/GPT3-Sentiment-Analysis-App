@@ -7,7 +7,8 @@ This is a simple sentiment analysis app built using Streamlit and OpenAI's GPT-3
 
 ## This GIF demonstrates the functionality of the Sentiment Analysis App.
 
-![App Demo](data/ezgif.com-video-to-gif.gif)
+![App Demo](./data/ezgif.com-video-to-gif.gif)
+
 
 
 
