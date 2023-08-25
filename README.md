@@ -10,8 +10,6 @@ This is a simple sentiment analysis app built using Streamlit and OpenAI's GPT-3
 ![App Demo](./data/ezgif.com-video-to-gif.gif)
 
 
-
-
 ## Example Text Samples
 For your convenience, a variety of text samples are provided in the [data/sentiments.txt](data/sentiments.txt) file. These samples showcase different sentiments and can be used to quickly see the app in action without having to type in your own text.
 
